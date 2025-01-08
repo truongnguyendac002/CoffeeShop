@@ -1,7 +1,9 @@
 # CoffeeShop
 
 ## Video Demo
-[![Video Title](https://img.youtube.com/vi/yo6ACQgEIhM/0.jpg)](https://www.youtube.com/watch?v=yo6ACQgEIhM)
+[![Watch the video](https://img.youtube.com/vi/yo6ACQgEIhM/maxresdefault.jpg)](https://youtu.be/yo6ACQgEIhM)
+
+### [Watch this video on YouTube](https://youtu.be/yo6ACQgEIhM)
 
 ## Website Features
 ### For Users:
@@ -41,7 +43,6 @@
 1. Open the **backend** folder in IntelliJ IDEA
 2. Update the **application.properties** file in **src/main/resources** with your database configuration:
     ```properties
-    spring.datasource.url=jdbc:mysql://localhost:3306/coffee_shop
     spring.datasource.username=your_username
     spring.datasource.password=your_password
     ```
